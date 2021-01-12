@@ -12,8 +12,9 @@ let string = `/*你好，我叫小王
 }
 /*然后将这个div变成一个圆*/
 #div1{
-    border-radius:50%;
-    box-shadow:0,0,5px,#000;       
+    border-radius: 50%;
+    box-shadow: 0 0 3px rgba(0,0,0,0.5);
+    border: none;      
 }
 /*八卦是阴阳两极的
 所以要将这个圆变成黑白*/
